@@ -1,0 +1,17 @@
+body {font-family:helvetica,arial;
+    line-height:0.7cm; 
+      margin:15 1 10 8;
+          border:7px ridge;
+           border-color: rgb(000, 015, 117);
+             padding:30px; 
+              }
+#city{ border: 5px ridge;
+border-color:RGB(108,171,221); }
+#intro{ background-color:rgb(70, 109, 113);
+text-align:center;
+color:white;}
+ol {font-size:15px;
+text-align:center}
+ul {font-size:15px;
+text-align:center}
+h1,h2,h3,h4 {text-align:center}
